@@ -1,0 +1,16 @@
+/* prefiks */
+/* minifikatsiya */
+
+
+/* BrowserSync ishga tushsin va o'zgarishlarga quloq solib tursin */
+/* HTML yoki JS faylda o'zgarish bo'lsa, brazuerdagi sahifani yangilasin */
+/* Sass fayl o'zgarsa, bir nechta Sass fayllarni bitta CSS faylga jamla */
+/* CSSdagi kerak bo'lmagan stillarni HTML va JS fayllarga qarab chiqarib tashla */
+/* Autoprefixer bergan talabga ko'ra CSSni prefiksla */
+/* CSSni minifikatsiya qil */
+/* minifikatsiya qilingan CSS faylni styles.min.css deb nomlab kerakli joyga saqla */
+/* CSS fayl o'zgarsa, sahifaga o'zgarishlarni biriktiradi */
+
+/* Rasmlarni optimallashtir */
+/* gulp optimize-images */
+/* jpg, png larni o'ziga mos, SVGni o'ziga mos usulda optimallashtiradi */
